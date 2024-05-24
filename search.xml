@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/03/02/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>first blog&#92;</title>
+    <url>/2024/03/03/first/</url>
+    <content><![CDATA[<p>这是一张测试帖，博客的创建跌跌撞撞，似乎还有某些问题未被发现，导致博客首页面目全非。我猜测可能是hexo的安装出现了问题，但是后面的主题安装等一系列过程还是很顺畅的。<br>首先，感谢*<a href="https://github.com/Bunnie-ww">Bunnie-ww</a>*提供的帮助及指导，帮助我解决了很多问题kiss kiss。<br>其次，在搭建过程中参考的<a href="https://blog.csdn.net/weixin_45476502/article/details/124688553">https://blog.csdn.net/weixin_45476502&#x2F;article&#x2F;details&#x2F;124688553</a>的指南。<br>最后，没有最后啦。庆祝博客成功搭建啦！</p>
+<p>测试没有成功呢，上文没能上传至未加载主题的博客。</p>
+<p>在最后的最后，历时两天，还是完成搭建啦！特别感谢*<a href="https://github.com/Bunnie-ww">Bunnie-ww</a>*为我提供的（<a href="https://blog.csdn.net/Nathan1987_/article/details/50322493%EF%BC%89%E7%9A%84%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF%E3%80%82">https://blog.csdn.net/Nathan1987_/article/details/50322493）的解决思路。</a></p>
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>组织学与胚胎学·第21章·胚胎发生总论</title>
+    <url>/2024/05/24/post/</url>
+    <content><![CDATA[<h1 id="第21章-胚胎发生总论"><a href="#第21章-胚胎发生总论" class="headerlink" title="第21章 胚胎发生总论"></a>第21章 胚胎发生总论</h1><h2 id="一、名词解释"><a href="#一、名词解释" class="headerlink" title="一、名词解释"></a>一、名词解释</h2><h3 id="1-获能"><a href="#1-获能" class="headerlink" title="1.获能"></a>1.获能</h3><p>精子头的外表面原本被一层来自精液中的糖蛋白所覆盖，能阻止顶体酶释放。当精子通过子宫和输卵管时，该糖蛋白被去除，从而使精子获得了释放顶体酶、使卵子受精的能力，此现象称活能。</p>
+<h3 id="2-透明带反应"><a href="#2-透明带反应" class="headerlink" title="2.透明带反应"></a>2.透明带反应</h3><p>受精过程中，精卵结合后，卵子浅层胞质内的皮质颗粒立即释放溶酶体酶，使透明带结构发生变化，特别是使ZP3分子变性，不再能与精子结合，从而阻止了其他精子穿越透明带，这一过程称透明带反应。这一反应保证了正常的单精受精。</p>
+<h3 id="3-胚泡"><a href="#3-胚泡" class="headerlink" title="3.胚泡"></a>3.胚泡</h3><p>桑葚胚进人子宫腔，细胞之间出现腔隙，形成一囊泡状结构，称胚泡。其内部腔隙叫胚泡腔；壁由单层细胞构成叫滋养层，与吸收营养有关：腔内一侧有一团细胞叫内细胞群，是胚胎发生的原基。<br><img src="/pic/%E8%83%9A%E6%B3%A1.jpg" alt="胚泡"></p>
+<h3 id="4-脊索"><a href="#4-脊索" class="headerlink" title="4.脊索"></a>4.脊索</h3><p>当原条出现之后，其原凹的细胞增殖，在内、外胚层之间向头端增生迁移，直抵口咽膜，形成一条单独的中胚层细胞索，称脊索，它在早期胚胎起一定支架作用，并诱导外胚层形成神经板。</p>
+<h3 id="5-胚盘"><a href="#5-胚盘" class="headerlink" title="5.胚盘"></a>5.胚盘</h3><p>第2周末，胚泡的内细胞群增殖分化形成圆盘状的结构称胚盘，细胞分两层：上胚层和下胚层。第3周末时，胚盘发育为三个胚层：外胚层、中胚层、内胚层，此即三胚层胚盘。胚盘是人体发育的原基。</p>
+<h3 id="6-顶体反应"><a href="#6-顶体反应" class="headerlink" title="6.顶体反应"></a>6.顶体反应</h3><p>在受精过程中，获能的精子遇到卵子，释放顶体酶，溶蚀放射冠和透明带的过程称顶体反应。借助顶体反应所形成的通道，精子的细胞核及细胞质进人卵子内，精卵合为一体。</p>
+<h3 id="7-极端滋养层"><a href="#7-极端滋养层" class="headerlink" title="7.极端滋养层"></a>7.极端滋养层</h3><p>发育的胚泡期，位于内细胞群一端的滋养层称极端滋养层，其覆盖于内细胞群的表面，细胞胞体略大于其他部位的滋养层细胞。植人时，胚泡的极端滋养层首先与子宫内其中。</p>
+<h3 id="8-滋养层陷窝"><a href="#8-滋养层陷窝" class="headerlink" title="8.滋养层陷窝"></a>8.滋养层陷窝</h3><p>胚泡全部植人子宫内膜后，整个滋养层均分化为两层，并迅速增厚。在合体滋养层内出现一些小的腔隙，称滋养层陷窝，不久其与子宫内膜的小血管相画而充满母体血液。随着绒毛膜的发育，原滋养层陷窝演变为绒毛干之间的绒毛间隙，其内充满来自子宫螺旋动脉的体血，绒毛浸浴其中。</p>
+<h3 id="9-单卵孪生"><a href="#9-单卵孪生" class="headerlink" title="9.单卵孪生"></a>9.单卵孪生</h3><p>即一个受精卵发育为两个胚胎，这种李生儿的遗传基因完全一样，因此性别一致，相貌、体态和生理特征等也极相似。单卵李生的成因可以是：<br>(1)从受精卵发育出两个胚泡而分别植入；<br>(2)一个胚泡内出现两个内细胞群，各发育为一个胚胎；<br>(3)一个胚盘上出现两个原条与脊索，形成两个神经管，发育为两个胚胎。</p>
+<h2 id="二、简答题"><a href="#二、简答题" class="headerlink" title="二、简答题"></a>二、简答题</h2><h2 id="三、论述题"><a href="#三、论述题" class="headerlink" title="三、论述题"></a>三、论述题</h2>]]></content>
+      <tags>
+        <tag>组织学与胚胎学</tag>
+      </tags>
+  </entry>
+</search>
