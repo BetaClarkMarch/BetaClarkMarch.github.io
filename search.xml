@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>first blog&#92;</title>
+    <url>/2024/03/03/first/</url>
+    <content><![CDATA[<p>这是一张测试帖，博客的创建跌跌撞撞，似乎还有某些问题未被发现，导致博客首页面目全非。我猜测可能是hexo的安装出现了问题，但是后面的主题安装等一系列过程还是很顺畅的。<br>
+首先，感谢*<a href="https://github.com/Bunnie-ww">Bunnie-ww</a>*提供的帮助及指导，帮助我解决了很多问题kiss kiss。<br>
+其次，在搭建过程中参考的<a href="https://blog.csdn.net/weixin_45476502/article/details/124688553">https://blog.csdn.net/weixin_45476502/article/details/124688553</a>的指南。<br>
+最后，没有最后啦。庆祝博客成功搭建啦！</p>
+<p>测试没有成功呢，上文没能上传至未加载主题的博客。</p>
+<p>在最后的最后，历时两天，还是完成搭建啦！特别感谢*<a href="https://github.com/Bunnie-ww">Bunnie-ww</a>*为我提供的（<a href="https://blog.csdn.net/Nathan1987_/article/details/50322493%EF%BC%89%E7%9A%84%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF%E3%80%82">https://blog.csdn.net/Nathan1987_/article/details/50322493）的解决思路。</a></p>
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2024/03/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -18,20 +32,6 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>first blog&#92;</title>
-    <url>/2024/03/03/first/</url>
-    <content><![CDATA[<p>这是一张测试帖，博客的创建跌跌撞撞，似乎还有某些问题未被发现，导致博客首页面目全非。我猜测可能是hexo的安装出现了问题，但是后面的主题安装等一系列过程还是很顺畅的。<br>
-首先，感谢*<a href="https://github.com/Bunnie-ww">Bunnie-ww</a>*提供的帮助及指导，帮助我解决了很多问题kiss kiss。<br>
-其次，在搭建过程中参考的<a href="https://blog.csdn.net/weixin_45476502/article/details/124688553">https://blog.csdn.net/weixin_45476502/article/details/124688553</a>的指南。<br>
-最后，没有最后啦。庆祝博客成功搭建啦！</p>
-<p>测试没有成功呢，上文没能上传至未加载主题的博客。</p>
-<p>在最后的最后，历时两天，还是完成搭建啦！特别感谢*<a href="https://github.com/Bunnie-ww">Bunnie-ww</a>*为我提供的（<a href="https://blog.csdn.net/Nathan1987_/article/details/50322493%EF%BC%89%E7%9A%84%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF%E3%80%82">https://blog.csdn.net/Nathan1987_/article/details/50322493）的解决思路。</a></p>
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
   </entry>
   <entry>
     <title>组织学与胚胎学·第21章·胚胎发生总论</title>
