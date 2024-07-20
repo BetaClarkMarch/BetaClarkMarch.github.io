@@ -273,7 +273,7 @@ II型肺泡细胞：</p>
 ]]></content>
   </entry>
   <entry>
-    <title>C++笔记</title>
+    <title>C++（1）</title>
     <url>/2024/07/13/C++%EF%BC%881%EF%BC%89/</url>
     <content><![CDATA[<h3 id="基本格式："><a href="#基本格式：" class="headerlink" title="基本格式："></a>基本格式：</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span>	<span class="comment">//main函数是程序入口，必须有且仅有一个</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">system</span>(<span class="string">&quot;pause&quot;</span>);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
